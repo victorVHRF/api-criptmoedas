@@ -4,7 +4,7 @@
     <img alt="page" src="page.jpg" width="400px" height="300px" />
 </p>
 
-# Objetivo
+# Goal
 Learn how to make a request for a cryptocurrency API with JavaScript.
 
 # To Work
